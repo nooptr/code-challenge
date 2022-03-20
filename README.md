@@ -1,5 +1,4 @@
-# code-challenge
-Code Challenge by docker sandbox
+# Code challenge by docker sandbox
 
 ## Build image cho docker
 
