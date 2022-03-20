@@ -1,8 +1,6 @@
 # code-challenge
 Code Challenge by docker sandbox
 
-**Chú ý:** source code này chỉ support cho hệ điều hành linux, mac os thôi nhé. window thì có vẻ không chạy (tại không có máy window để test)
-
 ## Build image cho docker
 
 ### PHP
